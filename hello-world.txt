@@ -1,1 +1,2 @@
-Hello world! This is Kapil! I am giving a session on Git and GitHub!
+Hello world! This is Kapil! I am giving a session on Git and GitHub! 
+And I hope people are learning :)
